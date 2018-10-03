@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - stack_from_queue",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "stack_from_queue",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - thread_8",
             "request": "launch",
             "cwd": "${workspaceFolder}",
